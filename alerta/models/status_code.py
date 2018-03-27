@@ -6,7 +6,7 @@ from alerta.models import severity_code
 Possible alert status codes.
 """
 
-BLACKOUT_STATUS_CODE= 1
+EMPTY_STATUS_CODE= 1
 OPEN_STATUS_CODE = 2
 ASSIGN_STATUS_CODE = 3
 ACK_STATUS_CODE = 4
